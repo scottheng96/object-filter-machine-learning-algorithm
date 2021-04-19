@@ -1,1 +1,1 @@
-# object-filter-machine-learning-algorithm
+# object-filter-probabilistic-machine-learning
